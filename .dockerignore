@@ -1,3 +1,4 @@
+# Dockerignore.
 node_modules
 .next
 .git

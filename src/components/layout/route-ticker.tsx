@@ -1,3 +1,4 @@
+// Route ticker component.
 const items = [
   'LAGOS → ABUJA · IN TRANSIT',
   'SETTLEMENT 3–5s',

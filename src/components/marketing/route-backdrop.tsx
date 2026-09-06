@@ -1,3 +1,4 @@
+// Route backdrop component.
 export function RouteBackdrop() {
   return (
     <div aria-hidden className="pointer-events-none absolute inset-0 -z-10 overflow-hidden">

@@ -1,4 +1,5 @@
 'use client';
+// Authenticated dashboard component.
 
 import { useEffect, useState, type MouseEvent, type ReactNode } from 'react';
 import Link from 'next/link';
