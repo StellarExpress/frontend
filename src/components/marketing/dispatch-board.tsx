@@ -1,4 +1,5 @@
 'use client';
+// Dispatch board component.
 
 import { motion } from 'framer-motion';
 import { activeShipments } from '@/lib/data';

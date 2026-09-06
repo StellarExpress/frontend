@@ -1,3 +1,4 @@
+// Auth.
 const TOKEN_KEY = 'stellarexpress_token';
 
 export function storeToken(token: string) {

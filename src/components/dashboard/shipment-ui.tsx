@@ -1,3 +1,4 @@
+// Shipment ui component.
 import type { Shipment } from '@/lib/api';
 
 export const TERMINAL_STATUSES: Shipment['status'][] = [
