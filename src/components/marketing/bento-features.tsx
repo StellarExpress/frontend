@@ -1,4 +1,5 @@
 'use client';
+// Bento features component.
 
 import { motion } from 'framer-motion';
 import {

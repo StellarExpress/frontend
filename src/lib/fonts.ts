@@ -1,3 +1,4 @@
+// Fonts.
 import { Archivo, Inter, IBM_Plex_Mono } from 'next/font/google';
 
 export const archivoDisplay = Archivo({

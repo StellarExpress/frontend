@@ -1,4 +1,5 @@
 'use client';
+// Feature mockup component.
 
 import { motion } from 'framer-motion';
 import { CheckCircle2, Clock, MapPin, ShieldAlert, Star } from 'lucide-react';

@@ -1,3 +1,4 @@
+// Footer component.
 import Link from 'next/link';
 import { LogoWordmark } from '@/components/logo-mark';
 import { DiscordIcon, GithubIcon, XIcon } from '@/components/social-icons';
