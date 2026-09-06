@@ -1,3 +1,4 @@
+// How it works component.
 import { ArrowRight, CircleDollarSign, PackageCheck, ShieldCheck, Truck } from 'lucide-react';
 import { Container, Section } from '@/components/ui/container';
 import { SectionHeader } from './section-header';

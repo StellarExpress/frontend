@@ -1,3 +1,4 @@
+// Logo mark component.
 import { cn } from '@/lib/utils';
 
 export function LogoMark({ className }: { className?: string }) {
