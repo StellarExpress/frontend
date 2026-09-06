@@ -1,4 +1,5 @@
 'use client';
+// Signup page.
 
 import Link from 'next/link';
 import { useRouter } from 'next/navigation';

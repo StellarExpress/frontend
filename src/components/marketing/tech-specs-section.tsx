@@ -1,4 +1,5 @@
 'use client';
+// Tech specs section component.
 
 import { motion } from 'framer-motion';
 import { Container, Section } from '@/components/ui/container';

@@ -1,3 +1,4 @@
+// App page.
 import { Hero } from '@/components/marketing/hero';
 import { HowItWorks } from '@/components/marketing/how-it-works';
 import { BentoFeatures } from '@/components/marketing/bento-features';

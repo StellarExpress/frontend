@@ -1,3 +1,4 @@
+# Gitattributes.
 * text=auto eol=lf
 *.ts text
 *.tsx text

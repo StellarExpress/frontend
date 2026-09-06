@@ -1,3 +1,4 @@
+// Pricing table component.
 import Link from 'next/link';
 import { Check, Minus } from 'lucide-react';
 import { Button } from '@/components/ui/button';
